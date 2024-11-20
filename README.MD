@@ -4,7 +4,7 @@
 Este es un proyecto completo de backend de autenticación construido con tecnologías modernas para proporcionar características seguras de autenticación y autorización de usuarios. El proyecto implementa un flujo completo de autenticación que incluye registro, inicio de sesión, recuperación de contraseña, restablecimiento de contraseña, rutas protegidas y autenticación de dos factores (2FA).
 
 ## Tecnologías Utilizadas
-- Supabase
+- Supabase (PostgreSQL)
 - Prisma
 - Node.js
 - Express
@@ -40,5 +40,9 @@ Este es un proyecto completo de backend de autenticación construido con tecnolo
    - Reemplaza `[TU-CONTRASEÑA]` en la URL con la contraseña de la base de datos que creaste
 
 3. Configuración del Entorno:
-   - Crea un archivo `.env` en la raíz de tu proyecto
-   - Añade la URL de tu base de datos:
+   - En la carpeta del proyecto, debes actualizar el archivo `.env` para cambiar la URL de supabase por la que has creado en tu proyecto de esta misma plataforma 
+   - Añade la URL de tu base de datos
+
+### Ejecución de Prisma y levantamiento de la web
+
+Una vez que se han realizado los pasos de supabase, solo queda ejecutar en la terminal que más prefiera `npx prisma generate` y después `npx prisma db push` para llevar los datos que están en prisma.schema a la base de datos que está en supabase (PostgreSQL). Y ya para finalizar, solo debes ejecutar `npm run dev` para comenzar el proyecto y empezar a experimentar.
