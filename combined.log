@@ -1,0 +1,390 @@
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"El servi","service":"user-service"}
+{"level":"info","message":"El servidor está corriendo en http://localhost:3000","service":"user-service"}
+{"level":"info","message":"El servidor está corriendo en http://localhost:","service":"user-service"}
+{"level":"info","message":"El servidor está corriendo en http://localhost:","service":"user-service"}
+{"level":"info","message":"El servidor está corriendo en ","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"","service":"user-service"}
+{"level":"info","message":"","service":"user-service"}
+{"level":"info","message":"","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+2024-11-20T16:54:02.157Z [user-service] info: Server running on port 3000
+2024-11-20T16:54:30.925Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:58:26.422Z [user-service] info: User registered: 11
+2024-11-20T16:59:03.637Z [user-service] info: User logged in: 11
+2024-11-20T16:59:25.139Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:27.117Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:28.819Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:36.144Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:40.429Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:42.995Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:44.010Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:49.882Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:55.144Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T16:59:56.678Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:04.883Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:06.242Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:07.662Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:08.949Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:15.699Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:17.103Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:24.237Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:26.504Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:27.467Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:30.950Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:32.465Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:00:34.667Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:06:35.335Z [user-service] info: User registered: 12
+2024-11-20T17:06:49.080Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:06:52.445Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:07:14.673Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:07:21.141Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:07:29.818Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:07:35.335Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:08:21.866Z [user-service] info: User logged in: 12
+2024-11-20T17:08:42.712Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:08:45.232Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:08:59.069Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:09:04.535Z [user-service] info: El servidor está corriendo en el puerto: 3000
+2024-11-20T17:09:47.255Z [user-service] info: User logged in: 12
+2024-11-20T17:21:34.373Z [user-service] info: User logged in: 12
+2024-11-20T17:23:28.950Z [user-service] info: Server running on port 3000
+2024-11-20T17:23:36.154Z [user-service] info: Server running on port 3000
+2024-11-20T17:26:30.577Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef140e4sm1913252b3a.88 - gsmtp
+2024-11-20T17:26:30.580Z [user-service] error: Error processing forgot password request: Failed to send password reset email
+2024-11-20T17:27:03.101Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ead0334aadsm1584405a91.23 - gsmtp
+2024-11-20T17:27:03.102Z [user-service] error: Error processing forgot password request: Failed to send password reset email
+2024-11-20T17:29:39.053Z [user-service] info: Server running on port 3000
+2024-11-20T17:29:41.010Z [user-service] info: Server running on port 3000
+2024-11-20T17:29:47.658Z [user-service] info: Server running on port 3000
+2024-11-20T17:29:50.890Z [user-service] info: Server running on port 3000
+2024-11-20T17:30:08.484Z [user-service] info: Server running on port 3000
+2024-11-20T17:30:17.654Z [user-service] info: Server running on port 3000
+2024-11-20T17:30:48.338Z [user-service] info: Server running on port 3000
+2024-11-20T17:31:05.056Z [user-service] info: Server running on port 3000
+2024-11-20T17:31:08.102Z [user-service] info: Server running on port 3000
+2024-11-20T17:31:20.524Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0f46765sm92526885ad.203 - gsmtp
+2024-11-20T17:31:20.526Z [user-service] info: Password reset requested for user: 12
+2024-11-20T17:31:32.559Z [user-service] info: Server running on port 3000
+2024-11-20T17:32:47.962Z [user-service] info: Server running on port 3000
+2024-11-20T17:32:57.250Z [user-service] info: Server running on port 3000
+2024-11-20T17:32:59.253Z [user-service] info: Server running on port 3000
+2024-11-20T17:33:01.425Z [user-service] info: Server running on port 3000
+2024-11-20T17:33:06.058Z [user-service] info: Server running on port 3000
+2024-11-20T17:33:13.056Z [user-service] info: Server running on port 3000
+2024-11-20T17:33:23.465Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724befac723sm1960978b3a.146 - gsmtp
+2024-11-20T17:33:23.467Z [user-service] info: Password reset requested for user: 12
+2024-11-20T17:33:30.219Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8da32sm1910766b3a.98 - gsmtp
+2024-11-20T17:33:30.220Z [user-service] info: Password reset requested for user: 11
+2024-11-20T17:33:33.425Z [user-service] error: Error processing forgot password request: User not found
+2024-11-20T17:34:16.922Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f8c1c3224asm9739017a12.29 - gsmtp
+2024-11-20T17:34:16.925Z [user-service] info: Password reset requested for user: 11
+2024-11-20T17:35:11.449Z [user-service] info: 2FA secret generated
+2024-11-20T17:35:11.644Z [user-service] error: Error setting up 2FA: 
+Invalid `prisma.user.update()` invocation in
+C:\Users\nmach\OneDrive\Escritorio\backend-app\src\models\user.ts:28:22
+
+  25 };
+  26 
+  27 export const updateUser = async (id: number, data: Partial<User>): Promise<User> => {
+→ 28   return prisma.user.update({
+         where: {
+           id: undefined,
+       ?   email?: String,
+       ?   AND?: UserWhereInput | UserWhereInput[],
+       ?   OR?: UserWhereInput[],
+       ?   NOT?: UserWhereInput | UserWhereInput[],
+       ?   password?: StringFilter | String,
+       ?   twoFactorSecret?: StringNullableFilter | String | Null,
+       ?   twoFactorEnabled?: BoolFilter | Boolean
+         },
+         data: {
+           twoFactorSecret: "M53EM4C5HJIHA5CWKJBTEJJDF5YWSMROIETEOVCFERCWCYTTNNCA",
+           twoFactorEnabled: true
+         }
+       })
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `email` arguments. Available options are marked with ?.
+2024-11-20T17:37:24.147Z [user-service] info: Server running on port 3000
+2024-11-20T17:37:30.105Z [user-service] info: Server running on port 3000
+2024-11-20T17:37:54.479Z [user-service] info: Server running on port 3000
+2024-11-20T17:37:58.463Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:00.965Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:20.193Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:32.320Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:38.843Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:40.881Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:42.849Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:49.367Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:56.257Z [user-service] info: Server running on port 3000
+2024-11-20T17:38:59.557Z [user-service] info: 2FA secret generated
+2024-11-20T17:38:59.561Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:39:55.639Z [user-service] info: Server running on port 3000
+2024-11-20T17:39:56.880Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:00.500Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:02.537Z [user-service] info: 2FA secret generated
+2024-11-20T17:40:02.540Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:40:07.280Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:07.585Z [user-service] error: Error setting up 2FA: Cannot read properties of undefined (reading 'id')
+2024-11-20T17:40:14.327Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:27.586Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:32.984Z [user-service] info: Server running on port 3000
+2024-11-20T17:40:46.357Z [user-service] info: Server running on port 3000
+2024-11-20T17:42:36.985Z [user-service] info: Server running on port 3000
+2024-11-20T17:42:40.914Z [user-service] info: 2FA secret generated
+2024-11-20T17:42:40.917Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:43:02.831Z [user-service] info: Server running on port 3000
+2024-11-20T17:43:44.660Z [user-service] info: Server running on port 3000
+2024-11-20T17:44:23.836Z [user-service] info: Server running on port 3000
+2024-11-20T17:44:33.463Z [user-service] info: Server running on port 3000
+2024-11-20T17:44:57.725Z [user-service] info: Server running on port 3000
+2024-11-20T17:45:05.671Z [user-service] info: Server running on port 3000
+2024-11-20T17:45:47.535Z [user-service] info: Server running on port 3000
+2024-11-20T17:45:57.270Z [user-service] info: Server running on port 3000
+2024-11-20T17:46:35.534Z [user-service] info: Server running on port 3000
+2024-11-20T17:46:38.906Z [user-service] info: Server running on port 3000
+2024-11-20T17:46:56.950Z [user-service] info: Server running on port 3000
+2024-11-20T17:47:05.966Z [user-service] info: Server running on port 3000
+2024-11-20T17:47:15.086Z [user-service] info: Server running on port 3000
+2024-11-20T17:47:19.950Z [user-service] info: 2FA secret generated
+2024-11-20T17:47:20.314Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:47:20.318Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:48:13.082Z [user-service] info: Server running on port 3000
+2024-11-20T17:48:17.568Z [user-service] info: User registered: 13
+2024-11-20T17:48:26.846Z [user-service] error: Error logging in: Invalid credentials
+2024-11-20T17:48:33.121Z [user-service] info: User logged in: 13
+2024-11-20T17:48:58.432Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8da9asm1963912b3a.128 - gsmtp
+2024-11-20T17:48:58.433Z [user-service] info: Password reset requested for user: 13
+2024-11-20T17:49:00.858Z [user-service] info: 2FA secret generated
+2024-11-20T17:49:01.195Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:49:01.199Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:50:38.698Z [user-service] info: Server running on port 3000
+2024-11-20T17:50:42.586Z [user-service] info: 2FA secret generated
+2024-11-20T17:50:42.946Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:50:42.951Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:51:48.821Z [user-service] info: Server running on port 3000
+2024-11-20T17:51:53.971Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:13.253Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:26.326Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:30.994Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:35.866Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:37.192Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:40.591Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:42.022Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:43.432Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:45.182Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:50.910Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:53.234Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:54.758Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:57.036Z [user-service] info: Server running on port 3000
+2024-11-20T17:52:58.288Z [user-service] info: Server running on port 3000
+2024-11-20T17:53:16.864Z [user-service] info: 2FA secret generated
+2024-11-20T17:53:17.241Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:53:17.247Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:53:19.234Z [user-service] info: 2FA secret generated
+2024-11-20T17:53:19.423Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:53:19.424Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:53:58.080Z [user-service] info: Server running on port 3000
+2024-11-20T17:54:00.118Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:05.346Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:08.899Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:10.611Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:11.886Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:24.308Z [user-service] info: Server running on port 3000
+2024-11-20T17:55:47.793Z [user-service] info: 2FA secret generated
+2024-11-20T17:55:48.167Z [user-service] info: 2FA set up for user: 12
+2024-11-20T17:59:23.327Z [user-service] info: Server running on port 3000
+2024-11-20T17:59:40.259Z [user-service] info: Server running on port 3000
+2024-11-20T17:59:45.337Z [user-service] info: Server running on port 3000
+2024-11-20T18:00:04.584Z [user-service] info: Server running on port 3000
+2024-11-20T18:01:44.497Z [user-service] info: 2FA secret generated
+2024-11-20T18:01:44.875Z [user-service] info: 2FA set up for user: 12
+2024-11-20T18:02:30.164Z [user-service] info: Server running on port 3000
+2024-11-20T18:02:37.566Z [user-service] info: 2FA secret generated
+2024-11-20T18:02:37.905Z [user-service] info: 2FA set up for user: 12
+2024-11-20T18:02:53.638Z [user-service] info: Server running on port 3000
+2024-11-20T18:03:02.986Z [user-service] info: Server running on port 3000
+2024-11-20T18:03:07.812Z [user-service] info: Server running on port 3000
+2024-11-20T18:06:46.453Z [user-service] info: Server running on port 3000
+2024-11-20T18:07:30.522Z [user-service] info: Server running on port 3000
+2024-11-20T18:07:37.684Z [user-service] info: Server running on port 3000
+2024-11-20T18:07:44.556Z [user-service] info: Server running on port 3000
+2024-11-20T18:07:48.927Z [user-service] info: Server running on port 3000
+2024-11-20T18:08:10.297Z [user-service] info: Server running on port 3000
+2024-11-20T18:08:56.067Z [user-service] info: Server running on port 3000
+2024-11-20T18:08:58.053Z [user-service] info: Server running on port 3000
+2024-11-20T18:09:04.272Z [user-service] info: El seriv 3000
+2024-11-20T18:09:14.521Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:10:27.211Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:10:40.907Z [user-service] info: User registered: 14
+2024-11-20T18:10:48.110Z [user-service] info: User logged in: 14
+2024-11-20T18:11:08.692Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8dab0sm2009860b3a.107 - gsmtp
+2024-11-20T18:11:08.693Z [user-service] info: Password reset requested for user: 14
+2024-11-20T18:11:13.199Z [user-service] info: 2FA secret generated
+2024-11-20T18:11:13.556Z [user-service] info: 2FA set up for user: 14
+2024-11-20T18:11:19.744Z [user-service] error: Authentication error: invalid token
+2024-11-20T18:11:23.526Z [user-service] info: 2FA secret generated
+2024-11-20T18:11:23.705Z [user-service] info: 2FA set up for user: 14
+2024-11-20T18:12:25.662Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:12:35.339Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:12:37.183Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:14.972Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:19.590Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:20.795Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:34.962Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:41.041Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:43.276Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:47.472Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:52.343Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:13:58.788Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:14:15.288Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:14:17.208Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:14:37.835Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:14:42.505Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:14:56.209Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:02.061Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:03.828Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:09.457Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:16.373Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:19.847Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:25.293Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:27.432Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:35.075Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:39.335Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:45.846Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:54.502Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:15:57.554Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:03.438Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:04.610Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:06.811Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:11.406Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:19.592Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:27.868Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:31.655Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:16:37.307Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:01.131Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:12.540Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:13.680Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:14.954Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:18.374Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:24.254Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:31.901Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:33.689Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:47.149Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:28:54.434Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:00.515Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:07.289Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:10.496Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:14.665Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:21.768Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:23.955Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:31.173Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:39.164Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:45.910Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:29:52.040Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:12.743Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:15.589Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:26.276Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:31.171Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:32.264Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:43.113Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:30:54.007Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:31:03.984Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:31:10.750Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:31:49.131Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:31:58.805Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:32:11.875Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:32:25.836Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:32:32.620Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:32:42.349Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:32:51.586Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:34:04.823Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:34:17.856Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:35:04.332Z [user-service] info: Usuario registrado: 15
+2024-11-20T18:35:45.187Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:35:48.429Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T18:36:11.412Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T18:36:51.388Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:36:54.513Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:37:44.822Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T18:37:44.822Z [user-service] info: Solicitud de restablecimiento de contraseña para el usuario: 15
+2024-11-20T18:38:34.598Z [user-service] info: Secreto 2FA generado
+2024-11-20T18:38:34.956Z [user-service] info: 2FA configurado para el usuario: 15
+2024-11-20T18:38:54.762Z [user-service] info: Secreto 2FA generado
+2024-11-20T18:38:54.942Z [user-service] info: 2FA configurado para el usuario: 15
+2024-11-20T18:41:53.604Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:43:35.599Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:44:54.123Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:45:33.182Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T18:45:33.183Z [user-service] info: Solicitud de restablecimiento de contraseña para el usuario: 15
+2024-11-20T18:48:32.329Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:51:21.231Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:51:39.913Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:52:21.174Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:55:39.916Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:55:58.914Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:57:04.112Z [user-service] info: Usuario conectado en: 15
+2024-11-20T18:57:21.093Z [user-service] info: Usuario registrado: 16
+2024-11-20T18:57:37.442Z [user-service] info: Usuario conectado en: 16
+2024-11-20T18:58:01.904Z [user-service] info: Secreto 2FA generado
+2024-11-20T18:58:02.262Z [user-service] info: 2FA configurado para el usuario: 16
+2024-11-20T18:59:30.794Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T18:59:41.568Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:00:44.233Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:00:47.505Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:01:13.039Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:01:25.899Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:04:07.268Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:04:09.747Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:04:11.330Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:04:16.785Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:06:15.630Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:06:27.017Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:06:38.917Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:04.555Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:07.279Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:08.610Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:14.450Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:18.230Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:07:22.524Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:09:24.635Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:09:28.619Z [user-service] info: Usuario conectado: 15
+2024-11-20T19:09:55.452Z [user-service] info: Usuario conectado: 15
+2024-11-20T19:28:24.907Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:31:59.319Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:48:20.779Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:57:42.102Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:58:04.898Z [user-service] error: Error al registrar el usuario: 
+Invalid `prisma.user.create()` invocation in
+C:\Users\nmach\OneDrive\Escritorio\backend-app\src\models\user.ts:21:22
+
+  18   email: string,
+  19   password: string
+  20 ): Promise<User> => {
+→ 21   return prisma.user.create(
+Can't reach database server at `aws-0-us-west-1.pooler.supabase.com:5432`
+
+Please make sure your database server is running at `aws-0-us-west-1.pooler.supabase.com:5432`.
+2024-11-20T19:58:53.242Z [user-service] info: El servidor está corriendo en el puerto 3000
+2024-11-20T19:59:14.037Z [user-service] info: Usuario registrado: 1
+2024-11-20T19:59:32.613Z [user-service] info: Usuario conectado: 1
+2024-11-20T20:00:14.720Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T20:00:14.722Z [user-service] info: Solicitud de restablecimiento de contraseña para el usuario: 1
+2024-11-20T20:00:58.634Z [user-service] info: Restablecimiento de la contraseña del usuario: 1
+2024-11-20T20:01:08.739Z [user-service] info: Usuario conectado: 1
+2024-11-20T20:01:21.310Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T20:01:27.566Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T20:01:49.713Z [user-service] info: Usuario conectado: 1
+2024-11-20T20:01:59.845Z [user-service] info: Secreto 2FA generado
+2024-11-20T20:02:00.207Z [user-service] info: 2FA configurado para el usuario: 1
+2024-11-20T20:02:42.670Z [user-service] info: El servidor está corriendo en el puerto 3000

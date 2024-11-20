@@ -1,0 +1,73 @@
+2024-11-20T17:26:30.577Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef140e4sm1913252b3a.88 - gsmtp
+2024-11-20T17:26:30.580Z [user-service] error: Error processing forgot password request: Failed to send password reset email
+2024-11-20T17:27:03.101Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2ead0334aadsm1584405a91.23 - gsmtp
+2024-11-20T17:27:03.102Z [user-service] error: Error processing forgot password request: Failed to send password reset email
+2024-11-20T17:31:20.524Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-211d0f46765sm92526885ad.203 - gsmtp
+2024-11-20T17:33:23.465Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724befac723sm1960978b3a.146 - gsmtp
+2024-11-20T17:33:30.219Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8da32sm1910766b3a.98 - gsmtp
+2024-11-20T17:33:33.425Z [user-service] error: Error processing forgot password request: User not found
+2024-11-20T17:34:16.922Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-7f8c1c3224asm9739017a12.29 - gsmtp
+2024-11-20T17:35:11.644Z [user-service] error: Error setting up 2FA: 
+Invalid `prisma.user.update()` invocation in
+C:\Users\nmach\OneDrive\Escritorio\backend-app\src\models\user.ts:28:22
+
+  25 };
+  26 
+  27 export const updateUser = async (id: number, data: Partial<User>): Promise<User> => {
+→ 28   return prisma.user.update({
+         where: {
+           id: undefined,
+       ?   email?: String,
+       ?   AND?: UserWhereInput | UserWhereInput[],
+       ?   OR?: UserWhereInput[],
+       ?   NOT?: UserWhereInput | UserWhereInput[],
+       ?   password?: StringFilter | String,
+       ?   twoFactorSecret?: StringNullableFilter | String | Null,
+       ?   twoFactorEnabled?: BoolFilter | Boolean
+         },
+         data: {
+           twoFactorSecret: "M53EM4C5HJIHA5CWKJBTEJJDF5YWSMROIETEOVCFERCWCYTTNNCA",
+           twoFactorEnabled: true
+         }
+       })
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id` or `email` arguments. Available options are marked with ?.
+2024-11-20T17:38:59.561Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:40:02.540Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:40:07.585Z [user-service] error: Error setting up 2FA: Cannot read properties of undefined (reading 'id')
+2024-11-20T17:42:40.917Z [user-service] error: Error setting up 2FA: El ID del usuario es requerido
+2024-11-20T17:47:20.318Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:48:26.846Z [user-service] error: Error logging in: Invalid credentials
+2024-11-20T17:48:58.432Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8da9asm1963912b3a.128 - gsmtp
+2024-11-20T17:49:01.199Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:50:42.951Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:53:17.247Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T17:53:19.424Z [user-service] error: Error setting up 2FA: Cannot set headers after they are sent to the client
+2024-11-20T18:11:08.692Z [user-service] error: Error sending password reset email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-724bef8dab0sm2009860b3a.107 - gsmtp
+2024-11-20T18:11:19.744Z [user-service] error: Authentication error: invalid token
+2024-11-20T18:35:48.429Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T18:36:11.412Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T18:37:44.822Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T18:45:33.182Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T19:58:04.898Z [user-service] error: Error al registrar el usuario: 
+Invalid `prisma.user.create()` invocation in
+C:\Users\nmach\OneDrive\Escritorio\backend-app\src\models\user.ts:21:22
+
+  18   email: string,
+  19   password: string
+  20 ): Promise<User> => {
+→ 21   return prisma.user.create(
+Can't reach database server at `aws-0-us-west-1.pooler.supabase.com:5432`
+
+Please make sure your database server is running at `aws-0-us-west-1.pooler.supabase.com:5432`.
+2024-11-20T20:00:14.720Z [user-service] error: Error al enviar el correo electrónico de restablecimiento de contraseña: Missing credentials for "PLAIN"
+2024-11-20T20:01:21.310Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
+2024-11-20T20:01:27.566Z [user-service] error: Error al iniciar sesión: Credenciales inválidas
